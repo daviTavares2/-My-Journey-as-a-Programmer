@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+ }
+
+ #text{
+    color: rgb(247, 223, 90);
+    font-family: 'Libre Baskerville',serif;
+}
+
+#total  {
+   text-align: center;
+}
+#img{
+    height: 300px;
+    margin-top: 70px;
+    border: 7px solid rgb(247, 223, 90);
+}
