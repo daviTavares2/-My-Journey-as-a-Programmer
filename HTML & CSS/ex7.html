@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .box >div   {
+    color: green;
+    }  
+
+    div ~ p {
+        color: red;
+    }
+    
+    h3 + p {
+        font-weight: bolder;
+        font-size: 1rem;
+    }
+</style>
+<body>
+    <div class="box">
+  <h3>Título</h3>
+  <p>Texto 1</p>
+  <div>
+    <p>Texto 2</p>
+  </div>
+  <p>Texto 3</p>
+</div>
+</body>
+</html>
+
+<!--✔️ Tarefas:
+
+Pinte apenas o “Texto 2” de verde.
+
+Pinte apenas o “Texto 3” de vermelho usando general sibling (~).
+
+Deixe o “Texto 1” em negrito usando adjacent sibling (+).
+-->
