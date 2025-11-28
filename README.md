@@ -31,12 +31,7 @@ Criação de APIs simples com Node.js
 
 Consumo de APIs com React
 
-
-
-
-LinkedIn:(https://www.linkedin.com/in/davi-nascimento-620961350)
-
 🚀 Continuarei atualizando este repositório conforme evoluo como programador!
 ## Contato
-- GitHub: 
-- LinkedIn:
+- LinkedIn:(https://www.linkedin.com/in/davi-nascimento-620961350)
+
