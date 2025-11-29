@@ -1,37 +1,33 @@
 
 🚀 My Journey as a Programmer
 
-Este repositório documenta todo o meu caminho como programador: estudos, exercícios, projetos, aprendizados e evolução ao longo do tempo.
+This repository documents my entire path as a programmer: studies, exercises, projects, learnings, and evolution over time.
 
-📚 Tecnologias Estudadas
+📚 Technologies Studied
 
-Aqui estão as principais tecnologias que estudei até agora:
+Here are the main technologies I have studied so far:
 
-HTML – Fundamentos da web
+HTML – Web fundamentals
 
-CSS – Box Model, selectors, layout, responsividade
+CSS – Box Model, selectors, layout, responsiveness
 
-JavaScript – Lógica, DOM, funções, objetos
+JavaScript – Logic, DOM, functions, objects
 
-React – Componentes, props, hooks, estados
+React – Components, props, hooks, states
 
-Node.js – APIs, módulos, rotas
+Node.js – APIs, modules, routes
 
-Banco de Dados – SQL básico
+Database – Basic SQL
 
-🧠 Conceitos Importantes
+🧠 Important Concepts
 
-Estruturação semântica com HTML
+Semantic structuring with HTML
 
-Box Model e display no CSS
+Box Model and display in CSS
 
-Manipulação do DOM com JavaScript
+DOM manipulation with JavaScript
 
-Criação de APIs simples com Node.js
+Creation of simple APIs with Node.js
 
-Consumo de APIs com React
-
-🚀 Continuarei atualizando este repositório conforme evoluo como programador!
-## Contato
-- LinkedIn:(https://www.linkedin.com/in/davi-nascimento-620961350)
+API consumption with React
 
